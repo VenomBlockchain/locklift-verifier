@@ -1,6 +1,12 @@
 # Locklift Verification plugin
 
 <p align="center">
+  <a href="https://github.com/venom-blockchain/developer-program">
+    <img src="https://raw.githubusercontent.com/venom-blockchain/developer-program/main/vf-dev-program.png" alt="Logo" width="366.8" height="146.4">
+  </a>
+</p>
+
+<p align="center">
     <p align="center">
         <a href="/LICENSE">
             <img alt="GitHub" src="https://img.shields.io/badge/license-Apache--2.0-orange" />
@@ -10,14 +16,6 @@
         </a>
     </p>
 </p>
-
-<p align="center">
-  <a href="https://github.com/venom-blockchain/developer-program">
-    <img src="https://raw.githubusercontent.com/venom-blockchain/developer-program/main/vf-dev-program.png" alt="Logo" width="366.8" height="146.4">
-  </a>
-</p>
-
-
 
 ## Install
 Inside the locklift project
